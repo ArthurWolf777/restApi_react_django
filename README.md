@@ -1,4 +1,5 @@
-# Administrador de Tareas django_rest y React
-El proyecto, es un CRUD, que conecta a una Interfaz Frontend de React, con Backend en Django.
+# Administrador de Tareas Django y React
+El proyecto conecta de forma Asincrona un Interfaz Frontend de React, con un Backend en Django.
 
-Permite al usuario, crear (Create), leer (Read), actualizar (Update) y borrar (Delete) las Tareas que deseé colocar.
+Permite al usuario realizar operaciones CRUD, crear (Create), leer (Read), actualizar (Update) y borrar (Delete) las Tareas que deseé colocar.
+
