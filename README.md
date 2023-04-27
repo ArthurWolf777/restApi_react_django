@@ -17,6 +17,8 @@ Leer (Read), las tareas ya creadas, con los datos que se guardaron.
 
 Actualizar (Update), las tareas, corregir el contenido.
 
+![Diseño sin título(3)](https://user-images.githubusercontent.com/117633586/234835106-b23d311c-f3fa-4af5-9262-a86d985461fb.gif)
 
-y borrar (Delete) las Tareas que deseé colocar.
+
+y por ultimo Borrar (Delete) las Tareas que haya creado previamente.
 
