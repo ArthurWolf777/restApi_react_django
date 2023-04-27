@@ -6,11 +6,12 @@ Permite al usuario realizar operaciones CRUD:
 
 Crear (Create), una nueva tarea:
 
-![Diseño sin título](https://user-images.githubusercontent.com/117633586/234830505-d19a9e1b-fc15-4ac5-871f-99a04e3f7e75.gif)
-
+![Diseño sin título(1)](https://user-images.githubusercontent.com/117633586/234831978-f69ccc1a-e6a8-4e95-aa12-c52c72e31a49.gif)
 
 
 leer (Read),
+
+
 
 
 actualizar (Update) 
