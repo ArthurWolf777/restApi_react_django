@@ -22,3 +22,5 @@ Actualizar (Update), las tareas, corregir el contenido.
 
 y por ultimo Borrar (Delete) las Tareas que haya creado previamente.
 
+
+![Diseño sin título(4)](https://user-images.githubusercontent.com/117633586/234836330-dd72c0c0-9ffd-42c2-ad91-a61e2c6504be.gif)
