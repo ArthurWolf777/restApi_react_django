@@ -12,6 +12,7 @@ Crear (Create), una nueva tarea:
 leer (Read),
 
 
+![Diseño sin título(2)](https://user-images.githubusercontent.com/117633586/234832881-3d029e34-bb16-46fa-b704-d8fb955ea7e9.gif)
 
 
 actualizar (Update) 
